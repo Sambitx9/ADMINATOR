@@ -1,0 +1,2289 @@
+[
+  {
+    "id": "or-001",
+    "lang": "or",
+    "text": "ନମସ୍କାର",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-002",
+    "lang": "or",
+    "text": "ନମସ୍କାର ସାର୍, ମୁଁ ଆଡମିଶନ ବିଷୟରେ ଜାଣିବାକୁ ଚାହୁଁଛି",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-003",
+    "lang": "or",
+    "text": "ପ୍ରଣାମ, ଡିପ୍ଲୋମା ନାମଲେଖା କେବେ ଆରମ୍ଭ ହେବ?",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-004",
+    "lang": "or",
+    "text": "ଜୟ ଜଗନ୍ନାଥ, ମୋତେ କିଛି ସୂଚନା ଦରକାର",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-005",
+    "lang": "or",
+    "text": "namaskar",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-006",
+    "lang": "or",
+    "text": "nomoskar sir",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-007",
+    "lang": "or",
+    "text": "mote admission information darkar",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-008",
+    "lang": "or",
+    "text": "namaskara, kemiti achanti?",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-009",
+    "lang": "or",
+    "text": "ନମସ୍କାର ଭାଇ",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-010",
+    "lang": "or",
+    "text": "hello sir, namaskar",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-011",
+    "lang": "or",
+    "text": "ନମସ୍କାର ମ୍ୟାଡମ୍",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-012",
+    "lang": "or",
+    "text": "pranam sir, sahayata darkar",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-013",
+    "lang": "or",
+    "text": "nomoskar, admission process kana?",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-014",
+    "lang": "or",
+    "text": "ନମସ୍କାର, କଲେଜ ଖୋଲିଛି କି?",
+    "intent": "GREETING",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-015",
+    "lang": "or",
+    "text": "namaskar, polytechnic admission darkar",
+    "intent": "GREETING",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-016",
+    "lang": "or",
+    "text": "କେଉଁ କେଉଁ ଇଞ୍ଜିନିୟରିଂ ଶାଖା ଉପଲବ୍ଧ ଅଛି?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-017",
+    "lang": "or",
+    "text": "ମେକାନିକାଲ୍ ଇଞ୍ଜିନିୟରିଂ ବିଷୟରେ କୁହନ୍ତୁ",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA",
+    "branch": "MECH"
+  },
+  {
+    "id": "or-018",
+    "lang": "or",
+    "text": "ସିଭିଲ୍ ଇଞ୍ଜିନିୟରିଂ କୋର୍ସ କିପରି?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "or-019",
+    "lang": "or",
+    "text": "କମ୍ପ୍ୟୁଟର ସାଇନ୍ସ ଶାଖାରେ କ’ଣ ପଢ଼ାଯାଏ?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-020",
+    "lang": "or",
+    "text": "ଇଲେକ୍ଟ୍ରିକାଲ୍ ଇଞ୍ଜିନିୟରିଂ ସିଲାବସ୍ କ’ଣ?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA",
+    "branch": "EE"
+  },
+  {
+    "id": "or-021",
+    "lang": "or",
+    "text": "ଇଲେକ୍ଟ୍ରୋନିକ୍ସ ଏବଂ ଟେଲିକମ୍ ଶାଖା ଅଛି କି?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA",
+    "branch": "ETC"
+  },
+  {
+    "id": "or-022",
+    "lang": "or",
+    "text": "ଅଟୋମୋବାଇଲ୍ ଇଞ୍ଜିନିୟରିଂ ସ୍କୋପ୍ କ’ଣ?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_ODIA",
+    "branch": "AUTO"
+  },
+  {
+    "id": "or-023",
+    "lang": "or",
+    "text": "mechanical branch re scope kana achi?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "MECH"
+  },
+  {
+    "id": "or-024",
+    "lang": "or",
+    "text": "civil engineering re job miliba ki?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "or-025",
+    "lang": "or",
+    "text": "computer science engineering course details kuha",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-026",
+    "lang": "or",
+    "text": "electrical engineering branches re lab achi ki?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "EE"
+  },
+  {
+    "id": "or-027",
+    "lang": "or",
+    "text": "etc branch re placement kemiti?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "ETC"
+  },
+  {
+    "id": "or-028",
+    "lang": "or",
+    "text": "automobile diploma engineering kete barsha?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "AUTO"
+  },
+  {
+    "id": "or-029",
+    "lang": "or",
+    "text": "mechnical branch subject kana kana?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "MECH"
+  },
+  {
+    "id": "or-030",
+    "lang": "or",
+    "text": "cse branch re coding sikhanti ki?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-031",
+    "lang": "or",
+    "text": "diploma civil engineering re survey achi?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "or-032",
+    "lang": "or",
+    "text": "electrical branch re bijuli work sikhanti?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "EE"
+  },
+  {
+    "id": "or-033",
+    "lang": "or",
+    "text": "electronics branch course duration kete?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "ETC"
+  },
+  {
+    "id": "or-034",
+    "lang": "or",
+    "text": "auto mobile re car repair sikhanti ki?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "AUTO"
+  },
+  {
+    "id": "or-035",
+    "lang": "or",
+    "text": "sobuthu bhala branch kouta diploma re?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-036",
+    "lang": "or",
+    "text": "ଡିପ୍ଲୋମା ନାମଲେଖା ପାଇଁ ଯୋଗ୍ୟତା କ’ଣ?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-037",
+    "lang": "or",
+    "text": "ମୋର ୧୦ମ ରେ ୫୮% ଅଛି, ମୋତେ ମେକାନିକାଲ୍ ମିଳିବ କି?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "NATIVE_ODIA",
+    "branch": "MECH",
+    "percentage": 58
+  },
+  {
+    "id": "or-038",
+    "lang": "or",
+    "text": "୬୨% ମାର୍କ ରେ ସିଭିଲ୍ ରେ ଆଡମିଶନ ହେବ କି?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "NATIVE_ODIA",
+    "branch": "CIVIL",
+    "percentage": 62
+  },
+  {
+    "id": "or-039",
+    "lang": "or",
+    "text": "୪୫% ମାର୍କ ରେ କମ୍ପ୍ୟୁଟର ସାଇନ୍ସ ମିଳିବ କି?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "NATIVE_ODIA",
+    "branch": "CSE",
+    "percentage": 45
+  },
+  {
+    "id": "or-040",
+    "lang": "or",
+    "text": "ITI ପରେ ଲାଟେରାଲ ଏଣ୍ଟ୍ରି ଯୋଗ୍ୟତା କ’ଣ?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-041",
+    "lang": "or",
+    "text": "mote mechanical re admission miliba ki 58% mark achi",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "branch": "MECH",
+    "percentage": 58
+  },
+  {
+    "id": "or-042",
+    "lang": "or",
+    "text": "civil re 65% mark re seat miliba ki?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CIVIL",
+    "percentage": 65
+  },
+  {
+    "id": "or-043",
+    "lang": "or",
+    "text": "cse re admission pain kete percentage percentage darkar?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-044",
+    "lang": "or",
+    "text": "70% mark achi electrical miliba?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "branch": "EE",
+    "percentage": 70
+  },
+  {
+    "id": "or-045",
+    "lang": "or",
+    "text": "34% mark re admission heba ki?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 34
+  },
+  {
+    "id": "or-046",
+    "lang": "or",
+    "text": "mor 10th re 52% achi jogyata kana?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 52
+  },
+  {
+    "id": "or-047",
+    "lang": "or",
+    "text": "lateral entry eligibility kana iti fitter pain?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "MECH"
+  },
+  {
+    "id": "or-048",
+    "lang": "or",
+    "text": "mora 75% mark achi cse re admission miliba?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CSE",
+    "percentage": 75
+  },
+  {
+    "id": "or-049",
+    "lang": "or",
+    "text": "10th pass jogyata kete mark darkar?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-050",
+    "lang": "or",
+    "text": "55% mark re mechanical branch miliba ki?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "branch": "MECH",
+    "percentage": 55
+  },
+  {
+    "id": "or-051",
+    "lang": "or",
+    "text": "math re pass heichi 48% mark achi",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 48
+  },
+  {
+    "id": "or-052",
+    "lang": "or",
+    "text": "science re pass heini kintu 50% achi",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 50
+  },
+  {
+    "id": "or-053",
+    "lang": "or",
+    "text": "iti electrician pass heichi lateral entry miliba?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "EE"
+  },
+  {
+    "id": "or-054",
+    "lang": "or",
+    "text": "sc category pain minimum percentage kete?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-055",
+    "lang": "or",
+    "text": "st category student 32% mark re eligible ki?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 32
+  },
+  {
+    "id": "or-056",
+    "lang": "or",
+    "text": "age 15 barsha achi admission heba?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-057",
+    "lang": "or",
+    "text": "mora 80% mark achi direct second year heba?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 80
+  },
+  {
+    "id": "or-058",
+    "lang": "or",
+    "text": "12th science pass heichi 50% mark re lateral entry heba?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_ODIA",
+    "percentage": 50
+  },
+  {
+    "id": "or-059",
+    "lang": "or",
+    "text": "iti copa pass heichi cse re lateral miliba?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-060",
+    "lang": "or",
+    "text": "first year admission pain minimum mark kete?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-061",
+    "lang": "or",
+    "text": "ଡିପ୍ଲୋମା ପଢ଼ିବା ପାଇଁ କେତେ ଫିସ୍ ଲାଗିବ?",
+    "intent": "FEE_QUERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-062",
+    "lang": "or",
+    "text": "ମେକାନିକାଲ୍ ଶାଖାର ଫିସ୍ ଏବଂ ହଷ୍ଟେଲ ଖର୍ଚ୍ଚ କେତେ?",
+    "intent": "FEE_AND_HOSTEL_QUERY",
+    "script": "NATIVE_ODIA",
+    "branch": "MECH"
+  },
+  {
+    "id": "or-063",
+    "lang": "or",
+    "text": "କମ୍ପ୍ୟୁଟର ସାଇନ୍ସ ସେମିଷ୍ଟାର ଫିସ୍ କେତେ?",
+    "intent": "FEE_QUERY",
+    "script": "NATIVE_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-064",
+    "lang": "or",
+    "text": "ହଷ୍ଟେଲ ସୁବିଧା ଏବଂ ମେସ୍ ଖର୍ଚ୍ଚ ବିଷୟରେ ଜଣାନ୍ତୁ",
+    "intent": "HOSTEL_QUERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-065",
+    "lang": "or",
+    "text": "fees kete lagiba mechanical engineering re?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "MECH"
+  },
+  {
+    "id": "or-066",
+    "lang": "or",
+    "text": "hostel fees kete hostel ra kharcha kana?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-067",
+    "lang": "or",
+    "text": "civil branch re fees kete semester ku?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "or-068",
+    "lang": "or",
+    "text": "hostel mess re kana khadya mile?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-069",
+    "lang": "or",
+    "text": "total kharcha kete heba 3 years re?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-070",
+    "lang": "or",
+    "text": "admission fee kete thare debaku pade?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-071",
+    "lang": "or",
+    "text": "fiss kete semester ku cse branch pain?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "CSE"
+  },
+  {
+    "id": "or-072",
+    "lang": "or",
+    "text": "electrical engineering fees and hostel kharcha kete?",
+    "intent": "FEE_AND_HOSTEL_QUERY",
+    "script": "ROMANIZED_ODIA",
+    "branch": "EE"
+  },
+  {
+    "id": "or-073",
+    "lang": "or",
+    "text": "hostel re separate girls hostel achi ki?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-074",
+    "lang": "or",
+    "text": "semister fee kete lagiba?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-075",
+    "lang": "or",
+    "text": "mess fee per month kete?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-076",
+    "lang": "or",
+    "text": "ଓଡ଼ିଶା ସରକାରଙ୍କ PRERANA ସ୍କଲାରସିପ୍ କିପରି ମିଳିବ?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-077",
+    "lang": "or",
+    "text": "ନାମଲେଖା ପାଇଁ କେଉଁ କେଉଁ କାଗଜପତ୍ର ଆବଶ୍ୟକ?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-078",
+    "lang": "or",
+    "text": "sc st scholarship kete taka mile?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-079",
+    "lang": "or",
+    "text": "admission documents kana kana lagiba?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-080",
+    "lang": "or",
+    "text": "prerana scholarship apply kemiti karibi?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-081",
+    "lang": "or",
+    "text": "marksheet au clc certificate darkar ki?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-082",
+    "lang": "or",
+    "text": "caste certificate darkar heba ki reservation pain?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-083",
+    "lang": "or",
+    "text": "resident certificate kouthu banebi?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-084",
+    "lang": "or",
+    "text": "chhatrabruti pain kete percentage percentage darkar?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-085",
+    "lang": "or",
+    "text": "documents verification kouthee heba?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-086",
+    "lang": "or",
+    "text": "ମୁଁ ଆପଣଙ୍କ କାଉନସେଲରଙ୍କ ସହିତ କଥା ହେବାକୁ ଚାହୁଁଛି",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-087",
+    "lang": "or",
+    "text": "କଲେଜ ଫୋନ୍ ନମ୍ବର ମିଳିପାରିବ କି?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "NATIVE_ODIA"
+  },
+  {
+    "id": "or-088",
+    "lang": "or",
+    "text": "mote admission counsellor sange katha habaku achi",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-089",
+    "lang": "or",
+    "text": "call karantu mora number 9876543210",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-090",
+    "lang": "or",
+    "text": "human counsellor sange connect kara",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-091",
+    "lang": "or",
+    "text": "mora phone number re call kariki sahayata kara",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-092",
+    "lang": "or",
+    "text": "counselling desk number dia",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-093",
+    "lang": "or",
+    "text": "help desk re katha habaku chahunchi",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-094",
+    "lang": "or",
+    "text": "sir apananka sathire phone re katha hebi",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-095",
+    "lang": "or",
+    "text": "counsellor call back request karuchi",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-096",
+    "lang": "or",
+    "text": "direct call kariba facility achi ki?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-097",
+    "lang": "or",
+    "text": "admission sahayaka nka number kete?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-098",
+    "lang": "or",
+    "text": "talk to human counsellor please",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-099",
+    "lang": "or",
+    "text": "mo phone number 9437123456 call karantu",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "or-100",
+    "lang": "or",
+    "text": "office timing kana katha haba pain?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_ODIA"
+  },
+  {
+    "id": "hi-001",
+    "lang": "hi",
+    "text": "नमस्ते",
+    "intent": "GREETING",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-002",
+    "lang": "hi",
+    "text": "नमस्ते सर, मुझे डिप्लोमा एडमिशन की जानकारी चाहिए",
+    "intent": "GREETING",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-003",
+    "lang": "hi",
+    "text": "प्रणाम, क्या मैं यहाँ प्रवेश के बारे में पूछ सकता हूँ?",
+    "intent": "GREETING",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-004",
+    "lang": "hi",
+    "text": "नमस्कार, मुझे कॉलेज के बारे में बताएं",
+    "intent": "GREETING",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-005",
+    "lang": "hi",
+    "text": "namaste",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-006",
+    "lang": "hi",
+    "text": "namaste sir, admission help chahiye",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-007",
+    "lang": "hi",
+    "text": "pranam sir",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-008",
+    "lang": "hi",
+    "text": "hello sir, diploma pravesh kab shuru hoga?",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-009",
+    "lang": "hi",
+    "text": "namaskar, mujhe jaankari chahiye",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-010",
+    "lang": "hi",
+    "text": "नमस्ते मैडम, सहायता चाहिए",
+    "intent": "GREETING",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-011",
+    "lang": "hi",
+    "text": "shubh prabhat, admission kaise hoga?",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-012",
+    "lang": "hi",
+    "text": "namaste, polytechnic admission open hai kya?",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-013",
+    "lang": "hi",
+    "text": "pranam, kaise hain aap?",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-014",
+    "lang": "hi",
+    "text": "नमस्ते, क्या एडमिशन चालू है?",
+    "intent": "GREETING",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-015",
+    "lang": "hi",
+    "text": "namaste help desk",
+    "intent": "GREETING",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-016",
+    "lang": "hi",
+    "text": "डिप्लोमा में कौन-कौन सी शाखाएं उपलब्ध हैं?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-017",
+    "lang": "hi",
+    "text": "मैकेनिकल इंजीनियरिंग में क्या पढ़ाया जाता है?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI",
+    "branch": "MECH"
+  },
+  {
+    "id": "hi-018",
+    "lang": "hi",
+    "text": "सिविल इंजीनियरिंग कोर्स का क्या स्कोप है?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "hi-019",
+    "lang": "hi",
+    "text": "कंप्यूटर साइंस इंजीनियरिंग की जानकारी दें",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-020",
+    "lang": "hi",
+    "text": "इलेक्ट्रिकल इंजीनियरिंग में सरकारी नौकरी का मौका है?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI",
+    "branch": "EE"
+  },
+  {
+    "id": "hi-021",
+    "lang": "hi",
+    "text": "इलेक्ट्रॉनिक्स एंड टेलीकम्युनिकेशन ब्रांच कैसा है?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI",
+    "branch": "ETC"
+  },
+  {
+    "id": "hi-022",
+    "lang": "hi",
+    "text": "ऑटोमोबाइल इंजीनियरिंग में प्लेसमेंट कैसा है?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "NATIVE_HINDI",
+    "branch": "AUTO"
+  },
+  {
+    "id": "hi-023",
+    "lang": "hi",
+    "text": "mechanical engineering me admission lena hai",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "MECH"
+  },
+  {
+    "id": "hi-024",
+    "lang": "hi",
+    "text": "civil engineering diploma course duration kitna hai?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "hi-025",
+    "lang": "hi",
+    "text": "computer science engineering me software sikhate hain?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-026",
+    "lang": "hi",
+    "text": "electrical engineering me job opportunity kya hai?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "EE"
+  },
+  {
+    "id": "hi-027",
+    "lang": "hi",
+    "text": "electronics telecom branch me kya subjects hain?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "ETC"
+  },
+  {
+    "id": "hi-028",
+    "lang": "hi",
+    "text": "automobile engineering diploma syllabus batao",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "AUTO"
+  },
+  {
+    "id": "hi-029",
+    "lang": "hi",
+    "text": "mechnical engineering ka scope kya hai?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "MECH"
+  },
+  {
+    "id": "hi-030",
+    "lang": "hi",
+    "text": "cse branch me coding classes hoti hain kya?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-031",
+    "lang": "hi",
+    "text": "civil me construction site training milti hai?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "hi-032",
+    "lang": "hi",
+    "text": "electrical diploma me substation visit hoti hai?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "EE"
+  },
+  {
+    "id": "hi-033",
+    "lang": "hi",
+    "text": "electronics branch telecom me job kaise milegi?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "ETC"
+  },
+  {
+    "id": "hi-034",
+    "lang": "hi",
+    "text": "automobile engineering me car design sikhate hain?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "AUTO"
+  },
+  {
+    "id": "hi-035",
+    "lang": "hi",
+    "text": "polytechnic me best engineering branch kaun si hai?",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-036",
+    "lang": "hi",
+    "text": "डिप्लोमा प्रवेश हेतु पात्रता क्या है?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-037",
+    "lang": "hi",
+    "text": "मेरे 10वीं में 58% अंक हैं, क्या मुझे मैकेनिकल मिलेगा?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "NATIVE_HINDI",
+    "branch": "MECH",
+    "percentage": 58
+  },
+  {
+    "id": "hi-038",
+    "lang": "hi",
+    "text": "62% अंक पर सिविल में प्रवेश संभव है?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "NATIVE_HINDI",
+    "branch": "CIVIL",
+    "percentage": 62
+  },
+  {
+    "id": "hi-039",
+    "lang": "hi",
+    "text": "45% अंक पर कंप्यूटर साइंस मिल सकता है?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "NATIVE_HINDI",
+    "branch": "CSE",
+    "percentage": 45
+  },
+  {
+    "id": "hi-040",
+    "lang": "hi",
+    "text": "आईटीआई के बाद लेटरल एंट्री की क्या योग्यता है?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-041",
+    "lang": "hi",
+    "text": "mujhe mechanical me admission milega kya 58% mark hai",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "branch": "MECH",
+    "percentage": 58
+  },
+  {
+    "id": "hi-042",
+    "lang": "hi",
+    "text": "civil me 65% mark me seat milegi kya?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CIVIL",
+    "percentage": 65
+  },
+  {
+    "id": "hi-043",
+    "lang": "hi",
+    "text": "cse me admission ke liye kitna percentage chahiye?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-044",
+    "lang": "hi",
+    "text": "70% mark hai electrical milega?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "branch": "EE",
+    "percentage": 70
+  },
+  {
+    "id": "hi-045",
+    "lang": "hi",
+    "text": "34% mark me admission hoga kya?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 34
+  },
+  {
+    "id": "hi-046",
+    "lang": "hi",
+    "text": "mera 10th me 52% hai yogyata kya hai?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 52
+  },
+  {
+    "id": "hi-047",
+    "lang": "hi",
+    "text": "lateral entry eligibility kya hai iti fitter ke liye?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "MECH"
+  },
+  {
+    "id": "hi-048",
+    "lang": "hi",
+    "text": "mera 75% mark hai cse me admission milega?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CSE",
+    "percentage": 75
+  },
+  {
+    "id": "hi-049",
+    "lang": "hi",
+    "text": "10th pass yogyata kitne mark chahiye?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-050",
+    "lang": "hi",
+    "text": "55% mark me mechanical branch milegi kya?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "branch": "MECH",
+    "percentage": 55
+  },
+  {
+    "id": "hi-051",
+    "lang": "hi",
+    "text": "maths me pass hu aur 48% mark hai",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 48
+  },
+  {
+    "id": "hi-052",
+    "lang": "hi",
+    "text": "science me fail hu lekin 50% aggregate hai",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 50
+  },
+  {
+    "id": "hi-053",
+    "lang": "hi",
+    "text": "iti electrician pass kiya hu lateral entry milegi?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "EE"
+  },
+  {
+    "id": "hi-054",
+    "lang": "hi",
+    "text": "sc category ke liye minimum percentage kitna hai?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-055",
+    "lang": "hi",
+    "text": "st category student 32% mark me eligible hai?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 32
+  },
+  {
+    "id": "hi-056",
+    "lang": "hi",
+    "text": "age 14 saal hai kya admission ho sakta hai?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-057",
+    "lang": "hi",
+    "text": "mera 80% mark hai direct second year hoga?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 80
+  },
+  {
+    "id": "hi-058",
+    "lang": "hi",
+    "text": "12th science pass hu 50% mark me lateral hoga?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ROMANIZED_HINDI",
+    "percentage": 50
+  },
+  {
+    "id": "hi-059",
+    "lang": "hi",
+    "text": "iti copa pass hu cse me lateral entry milegi?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-060",
+    "lang": "hi",
+    "text": "first year admission me minimum percentage kitna chahiye?",
+    "intent": "ELIGIBILITY_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-061",
+    "lang": "hi",
+    "text": "डिप्लोमा कोर्स की फीस कितनी है?",
+    "intent": "FEE_QUERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-062",
+    "lang": "hi",
+    "text": "मैकेनिकल इंजीनियरिंग की फीस और हॉस्टल का खर्च कितना है?",
+    "intent": "FEE_AND_HOSTEL_QUERY",
+    "script": "NATIVE_HINDI",
+    "branch": "MECH"
+  },
+  {
+    "id": "hi-063",
+    "lang": "hi",
+    "text": "कंप्यूटर साइंस का सेमेस्टर शुल्क कितना है?",
+    "intent": "FEE_QUERY",
+    "script": "NATIVE_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-064",
+    "lang": "hi",
+    "text": "हॉस्टल और मेस की क्या सुविधाएं हैं?",
+    "intent": "HOSTEL_QUERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-065",
+    "lang": "hi",
+    "text": "fees kitna lagega mechanical engineering me?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "MECH"
+  },
+  {
+    "id": "hi-066",
+    "lang": "hi",
+    "text": "hostel fees kitna hai mess kharcha kya hai?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-067",
+    "lang": "hi",
+    "text": "civil branch me fees kitni hai per semester?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "hi-068",
+    "lang": "hi",
+    "text": "hostel mess me kaisa khana milta hai?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-069",
+    "lang": "hi",
+    "text": "total kharcha kitna hoga 3 saal me?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-070",
+    "lang": "hi",
+    "text": "admission fee ek baar me deni hoti hai kya?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-071",
+    "lang": "hi",
+    "text": "fiss kitna lagega hostel ke sath computer science me",
+    "intent": "FEE_AND_HOSTEL_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "CSE"
+  },
+  {
+    "id": "hi-072",
+    "lang": "hi",
+    "text": "electrical engineering fees aur hostel kharcha kitna hai?",
+    "intent": "FEE_AND_HOSTEL_QUERY",
+    "script": "ROMANIZED_HINDI",
+    "branch": "EE"
+  },
+  {
+    "id": "hi-073",
+    "lang": "hi",
+    "text": "hostel me alag se girls hostel hai kya?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-074",
+    "lang": "hi",
+    "text": "semester fee kitni lagti hai?",
+    "intent": "FEE_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-075",
+    "lang": "hi",
+    "text": "mess fee mahine ki kitni aati hai?",
+    "intent": "HOSTEL_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-076",
+    "lang": "hi",
+    "text": "ओडिशा सरकार की प्रेरणा (PRERANA) छात्रवृत्ति कैसे मिलेगी?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-077",
+    "lang": "hi",
+    "text": "नामांकन हेतु कौन-कौन से दस्तावेज आवश्यक हैं?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-078",
+    "lang": "hi",
+    "text": "sc st scholarship kitna milta hai?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-079",
+    "lang": "hi",
+    "text": "admission documents kya kya lagenge?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-080",
+    "lang": "hi",
+    "text": "prerana scholarship apply kaise karein?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-081",
+    "lang": "hi",
+    "text": "marksheet aur clc certificate zaruri hai kya?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-082",
+    "lang": "hi",
+    "text": "caste certificate chahiye reservation ke liye?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-083",
+    "lang": "hi",
+    "text": "resident certificate kahan se banega?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-084",
+    "lang": "hi",
+    "text": "chhatravritti ke liye kitna percentage chahiye?",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-085",
+    "lang": "hi",
+    "text": "documents verification kahan hoga?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-086",
+    "lang": "hi",
+    "text": "मुझे प्रवेश काउंसलर से बात करनी है",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-087",
+    "lang": "hi",
+    "text": "कॉलेज का हेल्पलाइन नंबर क्या है?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "NATIVE_HINDI"
+  },
+  {
+    "id": "hi-088",
+    "lang": "hi",
+    "text": "mujhe admission counsellor se baat karni hai",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-089",
+    "lang": "hi",
+    "text": "call karein mera number 9876543210",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-090",
+    "lang": "hi",
+    "text": "human counsellor se connect kijiye",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-091",
+    "lang": "hi",
+    "text": "mere phone number par call karke sahayata karein",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-092",
+    "lang": "hi",
+    "text": "counselling desk ka number dijiye",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-093",
+    "lang": "hi",
+    "text": "help desk me baat karni hai",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-094",
+    "lang": "hi",
+    "text": "sir aapse phone par baat karni thi",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-095",
+    "lang": "hi",
+    "text": "counsellor call back request kar raha hu",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-096",
+    "lang": "hi",
+    "text": "direct call karne ki suvidha hai kya?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-097",
+    "lang": "hi",
+    "text": "admission sahayak ka phone number kya hai?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-098",
+    "lang": "hi",
+    "text": "talk to human counsellor please",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-099",
+    "lang": "hi",
+    "text": "mera number 9876543210 par call back kijiye",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "hi-100",
+    "lang": "hi",
+    "text": "office timing kya hai baat karne ke liye?",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ROMANIZED_HINDI"
+  },
+  {
+    "id": "en-001",
+    "lang": "en",
+    "text": "Hello",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-002",
+    "lang": "en",
+    "text": "Hi, good morning",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-003",
+    "lang": "en",
+    "text": "Hey there",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-004",
+    "lang": "en",
+    "text": "Hello, enquiry session 4",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-005",
+    "lang": "en",
+    "text": "Hello, enquiry session 5",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-006",
+    "lang": "en",
+    "text": "Hello, enquiry session 6",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-007",
+    "lang": "en",
+    "text": "Hello, enquiry session 7",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-008",
+    "lang": "en",
+    "text": "Hello, enquiry session 8",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-009",
+    "lang": "en",
+    "text": "Hello, enquiry session 9",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-010",
+    "lang": "en",
+    "text": "Hello, enquiry session 10",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-011",
+    "lang": "en",
+    "text": "Hello, enquiry session 11",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-012",
+    "lang": "en",
+    "text": "Hello, enquiry session 12",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-013",
+    "lang": "en",
+    "text": "Hello, enquiry session 13",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-014",
+    "lang": "en",
+    "text": "Hello, enquiry session 14",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-015",
+    "lang": "en",
+    "text": "Hello, enquiry session 15",
+    "intent": "GREETING",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-016",
+    "lang": "en",
+    "text": "Tell me more about Electronics engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "EE"
+  },
+  {
+    "id": "en-017",
+    "lang": "en",
+    "text": "Tell me more about Automobile engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "AUTO"
+  },
+  {
+    "id": "en-018",
+    "lang": "en",
+    "text": "Tell me more about Mechanical engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "MECH"
+  },
+  {
+    "id": "en-019",
+    "lang": "en",
+    "text": "Tell me more about Civil engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "en-020",
+    "lang": "en",
+    "text": "Tell me more about Computer Science engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-021",
+    "lang": "en",
+    "text": "Tell me more about Electrical engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "ETC"
+  },
+  {
+    "id": "en-022",
+    "lang": "en",
+    "text": "Tell me more about Electronics engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "EE"
+  },
+  {
+    "id": "en-023",
+    "lang": "en",
+    "text": "Tell me more about Automobile engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "AUTO"
+  },
+  {
+    "id": "en-024",
+    "lang": "en",
+    "text": "Tell me more about Mechanical engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "MECH"
+  },
+  {
+    "id": "en-025",
+    "lang": "en",
+    "text": "Tell me more about Civil engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "en-026",
+    "lang": "en",
+    "text": "Tell me more about Computer Science engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-027",
+    "lang": "en",
+    "text": "Tell me more about Electrical engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "ETC"
+  },
+  {
+    "id": "en-028",
+    "lang": "en",
+    "text": "Tell me more about Electronics engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "EE"
+  },
+  {
+    "id": "en-029",
+    "lang": "en",
+    "text": "Tell me more about Automobile engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "AUTO"
+  },
+  {
+    "id": "en-030",
+    "lang": "en",
+    "text": "Tell me more about Mechanical engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "MECH"
+  },
+  {
+    "id": "en-031",
+    "lang": "en",
+    "text": "Tell me more about Civil engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "CIVIL"
+  },
+  {
+    "id": "en-032",
+    "lang": "en",
+    "text": "Tell me more about Computer Science engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-033",
+    "lang": "en",
+    "text": "Tell me more about Electrical engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "ETC"
+  },
+  {
+    "id": "en-034",
+    "lang": "en",
+    "text": "Tell me more about Electronics engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "EE"
+  },
+  {
+    "id": "en-035",
+    "lang": "en",
+    "text": "Tell me more about Automobile engineering branch in diploma",
+    "intent": "BRANCH_DISCOVERY",
+    "script": "ENGLISH",
+    "branch": "AUTO"
+  },
+  {
+    "id": "en-036",
+    "lang": "en",
+    "text": "Is a candidate with 76% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 76
+  },
+  {
+    "id": "en-037",
+    "lang": "en",
+    "text": "Is a candidate with 77% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 77
+  },
+  {
+    "id": "en-038",
+    "lang": "en",
+    "text": "Is a candidate with 78% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 78
+  },
+  {
+    "id": "en-039",
+    "lang": "en",
+    "text": "Is a candidate with 79% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 79
+  },
+  {
+    "id": "en-040",
+    "lang": "en",
+    "text": "Is a candidate with 80% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 80
+  },
+  {
+    "id": "en-041",
+    "lang": "en",
+    "text": "Is a candidate with 81% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 81
+  },
+  {
+    "id": "en-042",
+    "lang": "en",
+    "text": "Is a candidate with 82% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 82
+  },
+  {
+    "id": "en-043",
+    "lang": "en",
+    "text": "Is a candidate with 83% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 83
+  },
+  {
+    "id": "en-044",
+    "lang": "en",
+    "text": "Is a candidate with 84% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 84
+  },
+  {
+    "id": "en-045",
+    "lang": "en",
+    "text": "Is a candidate with 40% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 40
+  },
+  {
+    "id": "en-046",
+    "lang": "en",
+    "text": "Is a candidate with 41% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 41
+  },
+  {
+    "id": "en-047",
+    "lang": "en",
+    "text": "Is a candidate with 42% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 42
+  },
+  {
+    "id": "en-048",
+    "lang": "en",
+    "text": "Is a candidate with 43% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 43
+  },
+  {
+    "id": "en-049",
+    "lang": "en",
+    "text": "Is a candidate with 44% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 44
+  },
+  {
+    "id": "en-050",
+    "lang": "en",
+    "text": "Is a candidate with 45% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 45
+  },
+  {
+    "id": "en-051",
+    "lang": "en",
+    "text": "Is a candidate with 46% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 46
+  },
+  {
+    "id": "en-052",
+    "lang": "en",
+    "text": "Is a candidate with 47% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 47
+  },
+  {
+    "id": "en-053",
+    "lang": "en",
+    "text": "Is a candidate with 48% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 48
+  },
+  {
+    "id": "en-054",
+    "lang": "en",
+    "text": "Is a candidate with 49% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 49
+  },
+  {
+    "id": "en-055",
+    "lang": "en",
+    "text": "Is a candidate with 50% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 50
+  },
+  {
+    "id": "en-056",
+    "lang": "en",
+    "text": "Is a candidate with 51% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 51
+  },
+  {
+    "id": "en-057",
+    "lang": "en",
+    "text": "Is a candidate with 52% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 52
+  },
+  {
+    "id": "en-058",
+    "lang": "en",
+    "text": "Is a candidate with 53% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 53
+  },
+  {
+    "id": "en-059",
+    "lang": "en",
+    "text": "Is a candidate with 54% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 54
+  },
+  {
+    "id": "en-060",
+    "lang": "en",
+    "text": "Is a candidate with 55% marks eligible for 1st year mechanical admission?",
+    "intent": "ELIGIBILITY_CHECK",
+    "script": "ENGLISH",
+    "branch": "MECH",
+    "percentage": 55
+  },
+  {
+    "id": "en-061",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-062",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-063",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-064",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-065",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-066",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-067",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-068",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-069",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-070",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-071",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-072",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-073",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-074",
+    "lang": "en",
+    "text": "What is the sample fee structure for CSE branch?",
+    "intent": "FEE_QUERY",
+    "script": "ENGLISH",
+    "branch": "CSE"
+  },
+  {
+    "id": "en-075",
+    "lang": "en",
+    "text": "Hostel and mess fee details please",
+    "intent": "HOSTEL_QUERY",
+    "script": "ENGLISH",
+    "branch": null
+  },
+  {
+    "id": "en-076",
+    "lang": "en",
+    "text": "What are the documents required for diploma admission?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-077",
+    "lang": "en",
+    "text": "Tell me about scholarship eligibility and fee waivers",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-078",
+    "lang": "en",
+    "text": "What are the documents required for diploma admission?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-079",
+    "lang": "en",
+    "text": "Tell me about scholarship eligibility and fee waivers",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-080",
+    "lang": "en",
+    "text": "What are the documents required for diploma admission?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-081",
+    "lang": "en",
+    "text": "Tell me about scholarship eligibility and fee waivers",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-082",
+    "lang": "en",
+    "text": "What are the documents required for diploma admission?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-083",
+    "lang": "en",
+    "text": "Tell me about scholarship eligibility and fee waivers",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-084",
+    "lang": "en",
+    "text": "What are the documents required for diploma admission?",
+    "intent": "DOCUMENTS_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-085",
+    "lang": "en",
+    "text": "Tell me about scholarship eligibility and fee waivers",
+    "intent": "SCHOLARSHIP_QUERY",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-086",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-087",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-088",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-089",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-090",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-091",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-092",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-093",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-094",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-095",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-096",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-097",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-098",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-099",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  },
+  {
+    "id": "en-100",
+    "lang": "en",
+    "text": "I want to speak with an admission counsellor directly, please call me",
+    "intent": "COUNSELLOR_HANDOFF",
+    "script": "ENGLISH"
+  }
+]

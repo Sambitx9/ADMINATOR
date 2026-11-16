@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E1E"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#101827"/>
+    </linearGradient>
+
+    <!-- Left Wing Gradient: Deep Blue to Cyan -->
+    <linearGradient id="leftWingGrad" x1="20%" y1="90%" x2="50%" y2="20%">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="60%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Right Wing Gradient: Cyan to Emerald -->
+    <linearGradient id="rightWingGrad" x1="50%" y1="20%" x2="80%" y2="90%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+
+    <!-- Crossbar Bridge: Luminous Teal/Emerald -->
+    <linearGradient id="bridgeGrad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+
+    <!-- Central Core Glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#2563EB" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0B132B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Container Rounded Base -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)"/>
+  <rect x="8" y="8" width="496" height="496" rx="104" stroke="#1E293B" stroke-width="6" fill="none"/>
+
+  <!-- Ambient Glow in the Nexus -->
+  <circle cx="256" cy="270" r="160" fill="url(#centerGlow)"/>
+
+  <!-- Geometric "A" Monograph for ADMINATOR -->
+  <!-- Left Pillar / Dynamic Wing -->
+  <path d="M256 82 L108 424 H176 L256 226 Z" fill="url(#leftWingGrad)"/>
+
+  <!-- Right Pillar / Dynamic Wing -->
+  <path d="M256 82 L256 226 L336 424 H404 Z" fill="url(#rightWingGrad)"/>
+
+  <!-- Central Bridge / Admission Gateway Crossbar -->
+  <path d="M168 312 H344 V356 H168 Z" fill="url(#bridgeGrad)" rx="8"/>
+
+  <!-- Apex Star / Zero Chaos Guidance Diamond -->
+  <polygon points="256,128 274,158 256,188 238,158" fill="#F8FAFC" opacity="0.95"/>
+  <circle cx="256" cy="158" r="4" fill="#38BDF8"/>
+
+  <!-- Subtle Bottom Foundation Accent (Precision Dots) -->
+  <circle cx="142" cy="424" r="6" fill="#2563EB"/>
+  <circle cx="256" cy="334" r="7" fill="#FFFFFF"/>
+  <circle cx="370" cy="424" r="6" fill="#10B981"/>
+</svg>

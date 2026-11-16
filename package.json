@@ -1,0 +1,22 @@
+{
+  "name": "adminator-workspace",
+  "version": "1.0.0",
+  "description": "ADMINATOR — AI-assisted Multilingual Diploma Admission Enquiry Platform (₹0 Target)",
+  "scripts": {
+    "test": "npm --prefix backend test",
+    "build": "npm --prefix frontend run build",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "start:backend": "npm --prefix backend start",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "adminator",
+    "polytechnic",
+    "diploma-admissions",
+    "odisha",
+    "multilingual"
+  ],
+  "author": "ADMINATOR Architecture Team",
+  "license": "MIT"
+}

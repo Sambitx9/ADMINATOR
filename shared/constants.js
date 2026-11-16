@@ -1,0 +1,45 @@
+/**
+ * ADMINATOR — Shared Application Constants & Enumerations
+ * SMART ADMISSIONS. ZERO CHAOS.
+ */
+
+export const APP_CONFIG = {
+  NAME: 'ADMINATOR',
+  TAGLINE: 'SMART ADMISSIONS. ZERO CHAOS.',
+  VERSION: '1.0.0',
+  DEFAULT_LANGUAGE: 'en',
+  SUPPORTED_LANGUAGES: [
+    { code: 'en', label: 'English', nativeLabel: 'English' },
+    { code: 'or', label: 'Odia', nativeLabel: 'ଓଡ଼ିଆ' },
+    { code: 'hi', label: 'Hindi', nativeLabel: 'हिन्दी' }
+  ],
+  DEMO_NOTICE: '[DEMO DATA - FOR EVALUATION ONLY - NOT OFFICIAL ADMISSION DATA]'
+};
+
+export const PATHWAYS = {
+  FIRST_YEAR: 'FIRST_YEAR',
+  LATERAL_ENTRY: 'LATERAL_ENTRY'
+};
+
+export const ENQUIRY_STATUS = {
+  NEW: 'NEW',
+  ASSIGNED: 'ASSIGNED',
+  IN_REVIEW: 'IN_REVIEW',
+  CONTACTED: 'CONTACTED',
+  DOCUMENT_VERIFIED: 'DOCUMENT_VERIFIED',
+  OFFERED: 'OFFERED',
+  ENROLLED: 'ENROLLED',
+  REJECTED: 'REJECTED'
+};
+
+export const USER_ROLES = {
+  STUDENT_GUEST: 'STUDENT_GUEST',
+  COUNSELLOR: 'COUNSELLOR',
+  COLLEGE_ADMIN: 'COLLEGE_ADMIN',
+  PLATFORM_ADMIN: 'PLATFORM_ADMIN'
+};
+
+export const API_MODES = {
+  LOCAL_DETERMINISTIC: 'LOCAL_DETERMINISTIC',
+  GEMINI_FREE_TIER: 'GEMINI_FREE_TIER'
+};

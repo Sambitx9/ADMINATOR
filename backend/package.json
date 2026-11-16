@@ -1,0 +1,28 @@
+{
+  "name": "adminator-backend",
+  "version": "1.0.0",
+  "description": "ADMINATOR — Backend REST API & Deterministic Engine (₹0 Cost Foundation)",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/seeds/demoDataSeeder.js",
+    "test": "node tests/deterministicEligibilityEngine.test.js && node tests/languageDetectorService.test.js && node tests/counsellingAndEnquiry.test.js && node tests/apiEndpoints.test.js && node tests/authAndRbac.test.js && node tests/crmAndAuditLedger.test.js && node tests/phase4E2EVerification.test.js && node tests/criticalLanguageAndDriems.test.js && node tests/multilingualBenchmark.test.js && node tests/finalAcceptanceAudit.js && node tests/hotfixBatch1Regression.test.js && node tests/phase4FinalCloseout.test.js && node tests/phase5ComparisonAndAnalytics.test.js && node tests/phase6AIGateway.test.js && node tests/phase7N8nIntegration.test.js && node tests/phase8FinalReleaseAudit.test.js && node tests/preDeploymentSecurityAudit.test.js",
+    "test:audit": "node tests/finalAcceptanceAudit.js",
+    "test:benchmark": "node tests/multilingualBenchmark.test.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.4.1",
+    "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
